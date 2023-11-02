@@ -1,0 +1,4 @@
+C:\Users\joshu\source\repos\LoginScreen\LoginScreen\Debug\LoginScreen.MyForm.resources
+C:\Users\joshu\source\repos\LoginScreen\LoginScreen\Debug\LoginScreen.vcxproj.GenerateResource.cache
+C:\Users\joshu\source\repos\LoginScreen\LoginScreen\Debug\LoginScreen.program.resources
+C:\Users\joshu\source\repos\LoginScreen\LoginScreen\Debug\LoginScreen.vcxproj.AssemblyReference.cache

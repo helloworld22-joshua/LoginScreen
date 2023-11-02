@@ -1,0 +1,3 @@
+﻿  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : error LNK2001: unresolved external symbol _MyForm.cpp
+C:\Users\joshu\source\repos\LoginScreen\Release\LoginScreen.exe : fatal error LNK1120: 1 unresolved externals
